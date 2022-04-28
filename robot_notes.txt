@@ -1,0 +1,11 @@
+*** Execution Commands ***
+
+python app.py
+robot test.robot
+
+
+*** Robot Key Words ***
+
+Welcome
+Log To Console			(printa no console)
+Should Be Equal 		(verifica o retorno)
